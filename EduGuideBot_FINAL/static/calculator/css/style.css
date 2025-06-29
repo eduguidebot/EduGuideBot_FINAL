@@ -1,0 +1,147 @@
+:root {
+    --primary-color: #25D366;
+    --secondary-color: #128C7E;
+    --dark-color: #075E54;
+    --light-color: #DCF8C6;
+    --gray-color: #f0f0f0;
+    --text-color: #222;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Battambang', 'Roboto', sans-serif;
+    color: var(--text-color);
+    background-color: #fff;
+    line-height: 1.5;
+    padding-bottom: 2rem;
+}
+
+header {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 1.5rem 1rem;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 0.5rem;
+    font-size: 1.8rem;
+}
+
+main {
+    padding: 1rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.calculator-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+}
+
+@media (min-width: 768px) {
+    .calculator-container {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+.calculator-form, .results-container {
+    padding: 1.5rem;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+
+select, input {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+    font-family: 'Battambang', 'Roboto', sans-serif;
+}
+
+input[type="range"] {
+    padding: 0;
+}
+
+button {
+    background-color: var(--secondary-color);
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    font-family: 'Battambang', 'Roboto', sans-serif;
+}
+
+button:hover {
+    background-color: var(--dark-color);
+}
+
+#calculate-btn {
+    width: 100%;
+    font-size: 1.1rem;
+    margin-top: 1rem;
+}
+
+.results-container {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--light-color);
+}
+
+.results-container h2 {
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.results-table {
+    margin-bottom: 1.5rem;
+}
+
+.result-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+.result-highlight {
+    background-color: rgba(0,0,0,0.05);
+    padding: 0.75rem;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-top: 0.5rem;
+}
+
+.notes {
+    margin-top: auto;
+    font-size: 0.9rem;
+    opacity: 0.8;
+    margin-bottom: 1.5rem;
+}
+
+#share-results {
+    align-self: center;
+} 

@@ -1,0 +1,16 @@
+{
+  "name": "University Admission Prediction Model",
+  "version": "1.0.0",
+  "description": "Predicts admission likelihood based on student profile",
+  "features": [
+    "location",
+    "budget",
+    "field_interest",
+    "high_school_gpa",
+    "english_level",
+    "university_id"
+  ],
+  "target": "admitted (1=admitted, 0=rejected)",
+  "accuracy": "Approximately 85% on test data",
+  "timestamp": "2023-07-15T12:00:00Z"
+}

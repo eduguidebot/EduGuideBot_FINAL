@@ -1,0 +1,632 @@
+{
+  "user_profile": {
+    "location": "Phnom Penh",
+    "max_budget": 1413,
+    "core_field": "វេជ្ជសាស្ត្រ",
+    "career_goal": "គ្រូបង្រៀន",
+    "english_proficiency": 8
+  },
+  "recommendations": [
+    {
+      "university": {
+        "id": 10,
+        "name_km": "វិទ្យាស្ថានបច្ចេកវិទ្យាកម្ពុជា",
+        "name_en": "Institute of Technology of Cambodia",
+        "name_short": "ITC",
+        "location": "Phnom Penh",
+        "type": "Public",
+        "established_year": 1964,
+        "tuition_fees": {
+          "currency": "USD",
+          "range_min": 350,
+          "range_max": 900,
+          "note_km": "ប្រហែល $350–$900/ឆ្នាំ, សិស្សអាហារូបករណ៍អាចត្រូវបង់ថ្លៃសិក្សាតិចតួច หรือកាត់បន្ថយ"
+        },
+        "faculties": [
+          {
+            "name_km": "កម្មវិធីសិក្សា",
+            "majors": [
+              {
+                "name_km": "វិស្វកម្មអគ្គិសនី និងថាមពល",
+                "category_km": "វិស្វកម្ម"
+              },
+              {
+                "name_km": "វិស្វកម្មឧស្សាហកម្ម និងមេកានិក",
+                "category_km": "វិស្វកម្ម"
+              },
+              {
+                "name_km": "បច្ចេកវិទ្យាព័ត៌មាន និងទំនាក់ទំនង",
+                "category_km": "បច្ចេកវិទ្យា"
+              },
+              {
+                "name_km": "ទូរគមនាគមន៍ និងបណ្តាញ",
+                "category_km": "បច្ចេកវិទ្យា"
+              },
+              {
+                "name_km": "ការអប់រំតាមប្រព័ន្ធអេឡិចត្រូនិក",
+                "category_km": "បច្ចេកវិទ្យា"
+              },
+              {
+                "name_km": "គណិតវិទ្យាអនុវត្ត និងស្ថិតិ",
+                "category_km": "វិទ្យាសាស្ត្រ"
+              },
+              {
+                "name_km": "វិស្វកម្មសំណង់ស៊ីវិល",
+                "category_km": "វិស្វកម្ម"
+              },
+              {
+                "name_km": "វិស្វកម្មស្ថាបត្យកម្ម",
+                "category_km": "ស្ថាបត្យកម្ម"
+              },
+              {
+                "name_km": "វិស្វកម្មហេដ្ឋារចនាសម្ព័ន្ធ និងដឹកជញ្ជូន",
+                "category_km": "វិស្វកម្ម"
+              },
+              {
+                "name_km": "វិស្វកម្មធនធានទឹក",
+                "category_km": "វិស្វកម្ម"
+              },
+              {
+                "name_km": "វិស្វកម្មបរិស្ថានទឹក",
+                "category_km": "បរិស្ថាន"
+              },
+              {
+                "name_km": "វិស្វកម្មភូគព្ភសាស្ត្រ",
+                "category_km": "វិស្វកម្ម"
+              },
+              {
+                "name_km": "វិទ្យាសាស្ត្រចំណីអាហារ",
+                "category_km": "វិទ្យាសាស្ត្រ"
+              },
+              {
+                "name_km": "វិស្វកម្មគីមី",
+                "category_km": "វិស្វកម្ម"
+              }
+            ]
+          }
+        ],
+        "contact": {
+          "phones": [
+            "023 880 370"
+          ],
+          "email": "info@itc.edu.kh",
+          "website": "https://www.itc.edu.kh",
+          "facebook": "itc.edu.kh"
+        },
+        "admission_requirements_km": [
+          "សញ្ញាបត្រមធ្យមសិក្សាទុតិយភូមិ",
+          "ត្រូវការប្រឡងចូល",
+          "ពាក្យស្នើសុំ",
+          "រូបថត"
+        ],
+        "career_opportunities_km": "ឱកាសការងារក្នុងវិស័យវិស្វកម្ម, បច្ចេកវិទ្យា, សំណង់, ធនធានទឹក, បរិស្ថាន, និងគីមី។",
+        "major_categories_km": [
+          "វិស្វកម្ម",
+          "បច្ចេកវិទ្យា",
+          "វិទ្យាសាស្ត្រ",
+          "ស្ថាបត្យកម្ម",
+          "បរិស្ថាន"
+        ],
+        "total_majors": 14,
+        "budget_category": "high",
+        "has_entrance_exam": true,
+        "special_programs": [],
+        "ranking_score": null
+      },
+      "total_score": 89
+    },
+    {
+      "university": {
+        "id": 39,
+        "name_km": "សាកលវិទ្យាល័យលឹមកុកវីង",
+        "name_en": "Limkokwing University of Creative Technology",
+        "name_short": "LKU",
+        "location": "Phnom Penh",
+        "type": "Private",
+        "established_year": 2010,
+        "tuition_fees": {
+          "currency": "USD",
+          "range_min": 1000,
+          "range_max": 1200,
+          "note_km": "$1,000–$1,200/ឆ្នាំ (ប្រភេទអន្តរជាតិ)"
+        },
+        "faculties": [
+          {
+            "name_km": "កម្មវិធីសិក្សា",
+            "majors": [
+              {
+                "name_km": "ស្ថាបត្យកម្ម និងការរចនា",
+                "category_km": "ស្ថាបត្យកម្ម"
+              },
+              {
+                "name_km": "សិល្បៈ, អក្សរសាស្ត្រ និងមនុស្សសាស្ត្រ",
+                "category_km": "សិល្បៈ"
+              },
+              {
+                "name_km": "ច្បាប់ និងវិទ្យាសាស្ត្រសង្គម",
+                "category_km": "ច្បាប់"
+              },
+              {
+                "name_km": "វិទ្យាសាស្ត្រសង្គម និងទំនាក់ទំនងអន្តរជាតិ",
+                "category_km": "ទំនាក់ទំនងអន្តរជាតិ"
+              },
+              {
+                "name_km": "គ្រប់គ្រងរដ្ឋបាលធុរកិច្ច",
+                "category_km": "ធុរកិច្ច"
+              }
+            ]
+          }
+        ],
+        "contact": {
+          "phones": [
+            "023 987 877"
+          ],
+          "email": "info@limkokwing.edu.kh",
+          "website": "https://www.limkokwing.net/cambodia",
+          "facebook": null
+        },
+        "admission_requirements_km": [
+          "សញ្ញាបត្រមធ្យមសិក្សាទុតិយភូមិ ឬស្មើ",
+          "ពាក្យស្នើសុំ",
+          "រូបថត"
+        ],
+        "career_opportunities_km": "ឱកាសការងារជាអ្នករចនា, នាយកច្នៃប្រឌិត, អ្នកគ្រប់គ្រងធុរកិច្ច, អ្នកបកប្រែ, និងអ្នកទំនាក់ទំនងអន្តរជាតិ។",
+        "major_categories_km": [
+          "ស្ថាបត្យកម្ម",
+          "សិល្បៈ",
+          "ច្បាប់",
+          "ទំនាក់ទំនងអន្តរជាតិ",
+          "ធុរកិច្ច"
+        ],
+        "total_majors": 5,
+        "budget_category": "high",
+        "has_entrance_exam": false,
+        "special_programs": [],
+        "ranking_score": null
+      },
+      "total_score": 88
+    },
+    {
+      "university": {
+        "id": 9,
+        "name_km": "សាកលវិទ្យាល័យភូមិន្ទភ្នំពេញ",
+        "name_en": "Royal University of Phnom Penh",
+        "name_short": "RUPP",
+        "location": "Phnom Penh",
+        "type": "Public",
+        "established_year": 1960,
+        "tuition_fees": {
+          "currency": "USD",
+          "range_min": 250,
+          "range_max": 450,
+          "note_km": "ប្រហែល $250–$400/ឆ្នាំ (កម្មវិធីសាធារណៈ), វិទ្យាស្ថានភាសាបរទេស (IFL): $350–$450/ឆ្នាំ"
+        },
+        "faculties": [
+          {
+            "name_km": "មហាវិទ្យាល័យវិទ្យាសាស្ត្រ",
+            "majors": [
+              {
+                "name_km": "គណិតវិទ្យា",
+                "category_km": "វិទ្យាសាស្ត្រ"
+              },
+              {
+                "name_km": "រូបវិទ្យា",
+                "category_km": "វិទ្យាសាស្ត្រ"
+              },
+              {
+                "name_km": "គីមីវិទ្យា",
+                "category_km": "វិទ្យាសាស្ត្រ"
+              },
+              {
+                "name_km": "ជីវវិទ្យា",
+                "category_km": "វិទ្យាសាស្ត្រ"
+              },
+              {
+                "name_km": "វិទ្យាសាស្ត្របរិស្ថាន",
+                "category_km": "បរិស្ថាន"
+              },
+              {
+                "name_km": "វិទ្យាសាស្ត្រកុំព្យូទ័រ",
+                "category_km": "បច្ចេកវិទ្យា"
+              }
+            ]
+          },
+          {
+            "name_km": "មហាវិទ្យាល័យវិទ្យាសាស្ត្រសង្គម និងមនុស្សសាស្ត្រ",
+            "majors": [
+              {
+                "name_km": "អក្សរសាស្ត្រខ្មែរ",
+                "category_km": "ភាសា"
+              },
+              {
+                "name_km": "ចិត្តវិទ្យា",
+                "category_km": "សិល្បៈ"
+              },
+              {
+                "name_km": "ភូមិវិទ្យា និងគ្រប់គ្រងដីធ្លី",
+                "category_km": "បរិស្ថាន"
+              },
+              {
+                "name_km": "ប្រព័ន្ធផ្សព្វផ្សាយ និងសារគមនាគមន៍",
+                "category_km": "សារព័ត៌មាន"
+              },
+              {
+                "name_km": "ទេសចរណ៍",
+                "category_km": "ទេសចរណ៍"
+              },
+              {
+                "name_km": "សង្គមវិទ្យា",
+                "category_km": "សិល្បៈ"
+              },
+              {
+                "name_km": "ការងារសង្គម",
+                "category_km": "សិល្បៈ"
+              }
+            ]
+          },
+          {
+            "name_km": "មហាវិទ្យាល័យអភិវឌ្ឍន៍",
+            "majors": [
+              {
+                "name_km": "គ្រប់គ្រងធុរកិច្ចអន្តរជាតិ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "ភាសាវិទ្យា",
+                "category_km": "ភាសា"
+              },
+              {
+                "name_km": "អភិវឌ្ឍន៍សហគមន៍",
+                "category_km": "សេដ្ឋកិច្ច"
+              },
+              {
+                "name_km": "គ្រប់គ្រងធនធានធម្មជាតិ និងអភិវឌ្ឍន៍",
+                "category_km": "បរិស្ថាន"
+              },
+              {
+                "name_km": "សេដ្ឋកិច្ចអភិវឌ្ឍន៍",
+                "category_km": "សេដ្ឋកិច្ច"
+              }
+            ]
+          },
+          {
+            "name_km": "មហាវិទ្យាល័យអប់រំ",
+            "majors": [
+              {
+                "name_km": "វិទ្យាសាស្ត្រអប់រំ",
+                "category_km": "អប់រំ"
+              },
+              {
+                "name_km": "គ្រប់គ្រង និងអភិវឌ្ឍន៍ឧត្តមសិក្សា",
+                "category_km": "អប់រំ"
+              },
+              {
+                "name_km": "ការអប់រំពេញមួយជីវិត",
+                "category_km": "អប់រំ"
+              }
+            ]
+          },
+          {
+            "name_km": "មហាវិទ្យាល័យវិស្វកម្ម",
+            "majors": [
+              {
+                "name_km": "វិស្វកម្មទិន្នន័យ",
+                "category_km": "វិស្វកម្ម"
+              },
+              {
+                "name_km": "វិស្វកម្មប្រព័ន្ធស្វ័យប្រវត្តិ និងខ្សែសង្វាក់ផ្គត់ផ្គង់",
+                "category_km": "វិស្វកម្ម"
+              },
+              {
+                "name_km": "វិស្វកម្ម និងបច្ចេកវិទ្យាចំណីអាហារ",
+                "category_km": "វិស្វកម្ម"
+              },
+              {
+                "name_km": "វិស្វកម្មព័ត៌មានវិទ្យា",
+                "category_km": "វិស្វកម្ម"
+              },
+              {
+                "name_km": "វិស្វកម្មទូរគមនាគមន៍ និងអេឡិចត្រូនិក",
+                "category_km": "វិស្វកម្ម"
+              },
+              {
+                "name_km": "វិស្វកម្ម",
+                "category_km": "វិស្វកម្ម"
+              }
+            ]
+          },
+          {
+            "name_km": "វិទ្យាស្ថានភាសាបរទេស (IFL)",
+            "majors": [
+              {
+                "name_km": "ភាសាអង់គ្លេស",
+                "category_km": "ភាសា"
+              },
+              {
+                "name_km": "ភាសាបារាំង",
+                "category_km": "ភាសា"
+              },
+              {
+                "name_km": "ភាសាជប៉ុន",
+                "category_km": "ភាសា"
+              },
+              {
+                "name_km": "ភាសាចិន",
+                "category_km": "ភាសា"
+              },
+              {
+                "name_km": "ភាសាកូរ៉េ",
+                "category_km": "ភាសា"
+              },
+              {
+                "name_km": "ភាសាថៃ",
+                "category_km": "ភាសា"
+              },
+              {
+                "name_km": "ទំនាក់ទំនងអន្តរជាតិ",
+                "category_km": "ទំនាក់ទំនងអន្តរជាតិ"
+              },
+              {
+                "name_km": "សេដ្ឋកិច្ចអន្តរជាតិ",
+                "category_km": "សេដ្ឋកិច្ច"
+              },
+              {
+                "name_km": "វិទ្យាសាស្ត្រនយោបាយ និងរដ្ឋបាលសាធារណៈ",
+                "category_km": "រដ្ឋបាល"
+              }
+            ]
+          }
+        ],
+        "contact": {
+          "phones": [
+            "023 883 640"
+          ],
+          "email": "info@rupp.edu.kh",
+          "website": "https://www.rupp.edu.kh",
+          "facebook": "rupp.edu.kh"
+        },
+        "admission_requirements_km": [
+          "សញ្ញាបត្រមធ្យមសិក្សាទុតិយភូមិ",
+          "ពាក្យស្នើសុំចុះឈ្មោះ",
+          "ត្រូវការប្រឡងចូលសម្រាប់ជំនាញមួយចំនួន",
+          "រូបថត"
+        ],
+        "career_opportunities_km": "ឱកាសការងារក្នុងវិស័យវិទ្យាសាស្ត្រ, អប់រំ, វិស្វកម្ម, ភាសាបរទេស, ទេសចរណ៍, បរិស្ថាន, និងសារព័ត៌មាន។",
+        "major_categories_km": [
+          "វិទ្យាសាស្ត្រ",
+          "បច្ចេកវិទ្យា",
+          "បរិស្ថាន",
+          "ភាសា",
+          "សិល្បៈ",
+          "សារព័ត៌មាន",
+          "ទេសចរណ៍",
+          "ធុរកិច្ច",
+          "សេដ្ឋកិច្ច",
+          "អប់រំ",
+          "វិស្វកម្ម",
+          "ទំនាក់ទំនងអន្តរជាតិ",
+          "រដ្ឋបាល"
+        ],
+        "total_majors": 36,
+        "budget_category": "low",
+        "has_entrance_exam": true,
+        "special_programs": [],
+        "ranking_score": null
+      },
+      "total_score": 81
+    },
+    {
+      "university": {
+        "id": 36,
+        "name_km": "សាកលវិទ្យាល័យខេមរៈ",
+        "name_en": "Khemarak University",
+        "name_short": "KU",
+        "location": "Phnom Penh",
+        "type": "Private",
+        "established_year": 2005,
+        "tuition_fees": {
+          "currency": "USD",
+          "range_min": 250,
+          "range_max": 400,
+          "note_km": "$250–$400/ឆ្នាំ"
+        },
+        "faculties": [
+          {
+            "name_km": "កម្មវិធីសិក្សា",
+            "majors": [
+              {
+                "name_km": "គីមីវិទ្យា",
+                "category_km": "វិទ្យាសាស្ត្រ"
+              },
+              {
+                "name_km": "អក្សរសាស្ត្រខ្មែរ",
+                "category_km": "ភាសា"
+              },
+              {
+                "name_km": "ជីវវិទ្យា",
+                "category_km": "វិទ្យាសាស្ត្រ"
+              },
+              {
+                "name_km": "រូបវិទ្យា",
+                "category_km": "វិទ្យាសាស្ត្រ"
+              },
+              {
+                "name_km": "ប្រវត្តិសាស្ត្រ",
+                "category_km": "សិល្បៈ"
+              },
+              {
+                "name_km": "ច្បាប់",
+                "category_km": "ច្បាប់"
+              },
+              {
+                "name_km": "រដ្ឋបាលសាធារណៈ",
+                "category_km": "រដ្ឋបាល"
+              },
+              {
+                "name_km": "សេដ្ឋកិច្ច",
+                "category_km": "សេដ្ឋកិច្ច"
+              },
+              {
+                "name_km": "ភាសាអង់គ្លេស",
+                "category_km": "ភាសា"
+              },
+              {
+                "name_km": "គណិតវិទ្យាអនុវត្ត",
+                "category_km": "វិទ្យាសាស្ត្រ"
+              },
+              {
+                "name_km": "គ្រប់គ្រង",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "ធុរកិច្ច",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "ទេសចរណ៍",
+                "category_km": "ទេសចរណ៍"
+              },
+              {
+                "name_km": "ទីផ្សារ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "ធនាគារ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "គណនេយ្យ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "កសិកម្ម",
+                "category_km": "កសិកម្ម"
+              },
+              {
+                "name_km": "អភិវឌ្ឍន៍ជនបទ",
+                "category_km": "កសិកម្ម"
+              },
+              {
+                "name_km": "វិទ្យាសាស្ត្រនយោបាយ",
+                "category_km": "ទំនាក់ទំនងអន្តរជាតិ"
+              },
+              {
+                "name_km": "ទំនាក់ទំនងអន្តរជាតិ",
+                "category_km": "ទំនាក់ទំនងអន្តរជាតិ"
+              }
+            ]
+          }
+        ],
+        "contact": {
+          "phones": [
+            "016 388 058"
+          ],
+          "email": "info@khemarak.edu.kh",
+          "website": "https://www.khemarak.edu.kh",
+          "facebook": null
+        },
+        "admission_requirements_km": [
+          "សញ្ញាបត្រមធ្យមសិក្សាទុតិយភូមិ ឬស្មើ",
+          "ពាក្យស្នើសុំ",
+          "រូបថត"
+        ],
+        "career_opportunities_km": "ឱកាសការងារជាគ្រូបង្រៀន, មេធាវី, អ្នកគ្រប់គ្រង, អ្នកគណនេយ្យ, អ្នកជំនាញកសិកម្ម, និងអ្នកសារព័ត៌មាន។",
+        "major_categories_km": [
+          "វិទ្យាសាស្ត្រ",
+          "ភាសា",
+          "សិល្បៈ",
+          "ច្បាប់",
+          "រដ្ឋបាល",
+          "សេដ្ឋកិច្ច",
+          "ធុរកិច្ច",
+          "ទេសចរណ៍",
+          "កសិកម្ម",
+          "ទំនាក់ទំនងអន្តរជាតិ"
+        ],
+        "total_majors": 20,
+        "budget_category": "low",
+        "has_entrance_exam": false,
+        "special_programs": [],
+        "ranking_score": null
+      },
+      "total_score": 73
+    },
+    {
+      "university": {
+        "id": 14,
+        "name_km": "សាកលវិទ្យាល័យពុទ្ធិសាស្ត្រ",
+        "name_en": "University of Puthisastra",
+        "name_short": "UP",
+        "location": "Phnom Penh",
+        "type": "Private",
+        "established_year": 2007,
+        "tuition_fees": {
+          "currency": "USD",
+          "range_min": 600,
+          "range_max": 2200,
+          "note_km": "ឱសថសាស្ត្រ, វេជ្ជសាស្ត្រ, ទន្តសាស្ត្រ: $1,500–$2,200/ឆ្នាំ; មុខជំនាញផ្សេងៗ: $600–$1,000/ឆ្នាំ"
+        },
+        "faculties": [
+          {
+            "name_km": "កម្មវិធីសិក្សា",
+            "majors": [
+              {
+                "name_km": "ឱសថសាស្ត្រ",
+                "category_km": "វេជ្ជសាស្ត្រ"
+              },
+              {
+                "name_km": "វេជ្ជសាស្ត្រ",
+                "category_km": "វេជ្ជសាស្ត្រ"
+              },
+              {
+                "name_km": "ទន្តសាស្ត្រ",
+                "category_km": "វេជ្ជសាស្ត្រ"
+              },
+              {
+                "name_km": "គិលានុបដ្ឋាយិកា និងឆ្មប",
+                "category_km": "សុខភាព"
+              },
+              {
+                "name_km": "សិល្បៈភាសាអង់គ្លេស, ពាណិជ្ជកម្ម និងសហគ្រិនភាព",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "បច្ចេកវិទ្យាព័ត៌មាន",
+                "category_km": "បច្ចេកវិទ្យា"
+              }
+            ]
+          }
+        ],
+        "contact": {
+          "phones": [
+            "023 221 624"
+          ],
+          "email": "info@puthisastra.edu.kh",
+          "website": "https://www.puthisastra.edu.kh",
+          "facebook": "puthisastra"
+        },
+        "admission_requirements_km": [
+          "សញ្ញាបត្រមធ្យមសិក្សាទុតិយភូមិ ឬស្មើ",
+          "ពាក្យស្នើសុំ",
+          "ប្រឡងចូល (សម្រាប់មុខជំនាញសុខាភិបាល)",
+          "រូបថត"
+        ],
+        "career_opportunities_km": "ឱកាសការងារជាឱសថការី, វេជ្ជបណ្ឌិត, ទន្តបណ្ឌិត, គិលានុបដ្ឋាក, ឆ្មប, សហគ្រិន, អ្នកជំនាញពាណិជ្ជកម្ម, និងអ្នកបច្ចេកទេសព័ត៌មានវិទ្យា។",
+        "major_categories_km": [
+          "វេជ្ជសាស្ត្រ",
+          "សុខភាព",
+          "ធុរកិច្ច",
+          "បច្ចេកវិទ្យា"
+        ],
+        "total_majors": 6,
+        "budget_category": "premium",
+        "has_entrance_exam": true,
+        "special_programs": [],
+        "ranking_score": null
+      },
+      "total_score": 68
+    }
+  ],
+  "result_id": "test5",
+  "timestamp": "2023-07-15T12:00:00Z"
+}

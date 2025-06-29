@@ -1,0 +1,500 @@
+{
+  "user_profile": {
+    "location": "Any",
+    "max_budget": 870,
+    "core_field": "សេដ្ឋកិច្ច",
+    "career_goal": "វិស្វករ",
+    "english_proficiency": 4
+  },
+  "recommendations": [
+    {
+      "university": {
+        "id": 2,
+        "name_km": "សាកលវិទ្យាល័យ សៅស៍អ៊ីសថ៍អេយសៀ",
+        "name_en": "University of South-East Asia",
+        "name_short": "USEA",
+        "location": "Siem Reap",
+        "type": "Private",
+        "established_year": 2006,
+        "tuition_fees": {
+          "currency": "USD",
+          "range_min": 400,
+          "range_max": 650,
+          "note_km": "ប្រហែល $400–$650/ឆ្នាំ (សូមពិនិត្យជាក់ស្តែងតាមការទំនាក់ទំនងផ្ទាល់)"
+        },
+        "faculties": [
+          {
+            "name_km": "មហាវិទ្យាល័យសេដ្ឋកិច្ច, ពាណិជ្ជកម្ម និងទេសចរណ៍, គណនេយ្យ និងសវនកម្ម",
+            "majors": [
+              {
+                "name_km": "ហិរញ្ញវត្ថុ និងធនាគារ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "ពាណិជ្ជកម្មអន្តរជាតិ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "ទីផ្សារអន្តរជាតិ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "ទេសចរណ៍ និងបដិសណ្ឋារកិច្ចអន្តរជាតិ",
+                "category_km": "ទេសចរណ៍"
+              },
+              {
+                "name_km": "គ្រប់គ្រង",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "ទីផ្សារ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "គ្រប់គ្រងទេសចរណ៍ និងបដិសណ្ឋារកិច្ច",
+                "category_km": "ទេសចរណ៍"
+              }
+            ]
+          },
+          {
+            "name_km": "មហាវិទ្យាល័យវិទ្យាសាស្ត្រ និងបច្ចេកវិទ្យា",
+            "majors": [
+              {
+                "name_km": "ស្ថាបត្យកម្ម",
+                "category_km": "ស្ថាបត្យកម្ម"
+              },
+              {
+                "name_km": "វិស្វកម្មសំណង់ស៊ីវិល",
+                "category_km": "វិស្វកម្ម"
+              },
+              {
+                "name_km": "ព័ត៌មានវិទ្យា",
+                "category_km": "បច្ចេកវិទ្យា"
+              },
+              {
+                "name_km": "គណិតវិទ្យា",
+                "category_km": "វិទ្យាសាស្ត្រ"
+              }
+            ]
+          },
+          {
+            "name_km": "មហាវិទ្យាល័យវិទ្យាសាស្ត្រសង្គម និងនីតិសាស្ត្រ",
+            "majors": [
+              {
+                "name_km": "នីតិសាស្ត្រ",
+                "category_km": "ច្បាប់"
+              },
+              {
+                "name_km": "វិទ្យាសាស្ត្រនយោបាយ",
+                "category_km": "ទំនាក់ទំនងអន្តរជាតិ"
+              },
+              {
+                "name_km": "ទំនាក់ទំនងអន្តរជាតិ",
+                "category_km": "ទំនាក់ទំនងអន្តរជាតិ"
+              },
+              {
+                "name_km": "រដ្ឋបាលសាធារណៈ",
+                "category_km": "រដ្ឋបាល"
+              }
+            ]
+          },
+          {
+            "name_km": "មហាវិទ្យាល័យសិល្បៈ, មនុស្សសាស្ត្រ និងអប់រំ",
+            "majors": [
+              {
+                "name_km": "អក្សរសាស្ត្រខ្មែរ",
+                "category_km": "ភាសា"
+              }
+            ]
+          }
+        ],
+        "contact": {
+          "phones": [
+            "063 963 527",
+            "012 846 144"
+          ],
+          "email": "usea_info@usea.edu.kh",
+          "website": "https://www.usea.edu.kh",
+          "facebook": "useasiemreap"
+        },
+        "admission_requirements_km": [
+          "ពាក្យស្នើសុំចុះឈ្មោះសិក្សា ១ច្បាប់",
+          "លិខិតបញ្ជាក់ថាបានជាប់បាក់ឌុប ឬវិញ្ញាបនបត្រស្មើ ១សន្លឹក",
+          "រូបថត 4x6 ចំនួន ២សន្លឹក"
+        ],
+        "career_opportunities_km": "ឱកាសការងារផ្នែកគណនេយ្យ, សេដ្ឋកិច្ច, ទេសចរណ៍, នីតិសាស្ត្រ, ការគ្រប់គ្រង និងវិស័យព័ត៌មានវិទ្យា។",
+        "major_categories_km": [
+          "ធុរកិច្ច",
+          "ទេសចរណ៍",
+          "ស្ថាបត្យកម្ម",
+          "វិស្វកម្ម",
+          "បច្ចេកវិទ្យា",
+          "វិទ្យាសាស្ត្រ",
+          "ច្បាប់",
+          "ទំនាក់ទំនងអន្តរជាតិ",
+          "រដ្ឋបាល",
+          "ភាសា"
+        ],
+        "total_majors": 16,
+        "budget_category": "medium",
+        "has_entrance_exam": false,
+        "special_programs": [],
+        "ranking_score": null
+      },
+      "total_score": 87
+    },
+    {
+      "university": {
+        "id": 11,
+        "name_km": "សាកលវិទ្យាល័យភូមិន្ទកសិកម្ម",
+        "name_en": "Royal University of Agriculture",
+        "name_short": "RUA",
+        "location": "Phnom Penh",
+        "type": "Public",
+        "established_year": 1964,
+        "tuition_fees": {
+          "currency": "USD",
+          "range_min": 300,
+          "range_max": 600,
+          "note_km": "ប្រហែល $300–$600/ឆ្នាំ (កម្មវិធីខ្លះអាចមានថ្លៃខ្ពស់ជាងនេះ)"
+        },
+        "faculties": [
+          {
+            "name_km": "កម្មវិធីសិក្សា",
+            "majors": [
+              {
+                "name_km": "វិទ្យាសាស្ត្រកសិកម្ម",
+                "category_km": "កសិកម្ម"
+              },
+              {
+                "name_km": "វិទ្យាសាស្ត្រសត្វ",
+                "category_km": "កសិកម្ម"
+              },
+              {
+                "name_km": "បសុព្យាបាល",
+                "category_km": "វេជ្ជសាស្ត្រ"
+              },
+              {
+                "name_km": "រុក្ខាប្រមាញ់",
+                "category_km": "ព្រៃឈើ"
+              },
+              {
+                "name_km": "នេសាទ និងវារីវប្បកម្ម",
+                "category_km": "ជលផល"
+              },
+              {
+                "name_km": "វិស្វកម្មប្រព័ន្ធកសិកម្ម",
+                "category_km": "វិស្វកម្ម"
+              },
+              {
+                "name_km": "សេដ្ឋកិច្ចកសិកម្ម និងអភិវឌ្ឍន៍ជនបទ",
+                "category_km": "កសិកម្ម"
+              },
+              {
+                "name_km": "កសិ-ឧស្សាហកម្ម",
+                "category_km": "កសិកម្ម"
+              },
+              {
+                "name_km": "រៀបចំដែនដី និងរដ្ឋបាលដីធ្លី",
+                "category_km": "រដ្ឋបាល"
+              }
+            ]
+          }
+        ],
+        "contact": {
+          "phones": [
+            "023 219 269"
+          ],
+          "email": "info@rua.edu.kh",
+          "website": "https://www.rua.edu.kh",
+          "facebook": "RUACambodia"
+        },
+        "admission_requirements_km": [
+          "សញ្ញាបត្រមធ្យមសិក្សាទុតិយភូមិ ឬស្មើ",
+          "ពាក្យស្នើសុំ",
+          "រូបថត"
+        ],
+        "career_opportunities_km": "ឱកាសការងារក្នុងវិស័យកសិកម្ម, ផលិតកម្មសត្វ, រុក្ខាប្រមាញ់, បសុព្យាបាល, និងបរិស្ថាន។",
+        "major_categories_km": [
+          "កសិកម្ម",
+          "វេជ្ជសាស្ត្រ",
+          "ព្រៃឈើ",
+          "ជលផល",
+          "វិស្វកម្ម",
+          "រដ្ឋបាល"
+        ],
+        "total_majors": 9,
+        "budget_category": "medium",
+        "has_entrance_exam": false,
+        "special_programs": [],
+        "ranking_score": null
+      },
+      "total_score": 75
+    },
+    {
+      "university": {
+        "id": 23,
+        "name_km": "សាលាជាតិកសិកម្មព្រែកលៀប",
+        "name_en": "Prek Leap National College of Agriculture",
+        "name_short": "PNCA",
+        "location": "Phnom Penh",
+        "type": "Public",
+        "established_year": 1965,
+        "tuition_fees": {
+          "currency": "USD",
+          "range_min": 250,
+          "range_max": 450,
+          "note_km": "$250–$450/ឆ្នាំ (អាចមានតម្លៃទាបជាងសម្រាប់បុគ្គលិករាជការ หรือអាហារូបករណ៍)"
+        },
+        "faculties": [
+          {
+            "name_km": "កម្មវិធីសិក្សា",
+            "majors": [
+              {
+                "name_km": "វិទ្យាសាស្ត្រកសិកម្ម",
+                "category_km": "កសិកម្ម"
+              },
+              {
+                "name_km": "វិទ្យាសាស្ត្ររុក្ខជាតិ",
+                "category_km": "កសិកម្ម"
+              },
+              {
+                "name_km": "វិទ្យាសាស្ត្រសត្វ",
+                "category_km": "កសិកម្ម"
+              },
+              {
+                "name_km": "សាកវប្បកម្ម",
+                "category_km": "កសិកម្ម"
+              },
+              {
+                "name_km": "សេដ្ឋកិច្ចកសិកម្ម",
+                "category_km": "កសិកម្ម"
+              },
+              {
+                "name_km": "អាហារូបត្ថម្ភ និងសុខភាព",
+                "category_km": "សុខភាព"
+              },
+              {
+                "name_km": "កែច្នៃអាហារ",
+                "category_km": "កសិកម្ម"
+              },
+              {
+                "name_km": "វិស្វកម្មកសិកម្ម និងសំណង់ជនបទ",
+                "category_km": "វិស្វកម្ម"
+              },
+              {
+                "name_km": "វិទ្យាសាស្ត្រកុំព្យូទ័រ",
+                "category_km": "បច្ចេកវិទ្យា"
+              },
+              {
+                "name_km": "ភាសាអង់គ្លេស",
+                "category_km": "ភាសា"
+              }
+            ]
+          }
+        ],
+        "contact": {
+          "phones": [
+            "023 631 3607"
+          ],
+          "email": "info@pnlca.edu.kh",
+          "website": "https://www.pnca.edu.kh",
+          "facebook": null
+        },
+        "admission_requirements_km": [
+          "សញ្ញាបត្រមធ្យមសិក្សាទុតិយភូមិ ឬស្មើ",
+          "ពាក្យស្នើសុំ",
+          "រូបថត"
+        ],
+        "career_opportunities_km": "ឱកាសការងារជាអ្នកជំនាញកសិកម្ម, អ្នកបច្ចេកទេស, មន្ត្រីក្រសួងកសិកម្ម, និងអ្នកអប់រំ។",
+        "major_categories_km": [
+          "កសិកម្ម",
+          "សុខភាព",
+          "វិស្វកម្ម",
+          "បច្ចេកវិទ្យា",
+          "ភាសា"
+        ],
+        "total_majors": 10,
+        "budget_category": "low",
+        "has_entrance_exam": false,
+        "special_programs": [],
+        "ranking_score": null
+      },
+      "total_score": 72
+    },
+    {
+      "university": {
+        "id": 35,
+        "name_km": "សាកលវិទ្យាល័យវេស្ទើន",
+        "name_en": "Western University",
+        "name_short": "WU",
+        "location": "Phnom Penh",
+        "type": "Private",
+        "established_year": 2003,
+        "tuition_fees": {
+          "currency": "USD",
+          "range_min": 350,
+          "range_max": 600,
+          "note_km": "$350–$600/ឆ្នាំ"
+        },
+        "faculties": [
+          {
+            "name_km": "កម្មវិធីសិក្សា",
+            "majors": [
+              {
+                "name_km": "វិទ្យាសាស្ត្រកុំព្យូទ័រ",
+                "category_km": "បច្ចេកវិទ្យា"
+              },
+              {
+                "name_km": "រចនា និងច្នៃប្រឌិត",
+                "category_km": "សិល្បៈ"
+              },
+              {
+                "name_km": "គ្រប់គ្រង",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "ហិរញ្ញវត្ថុ និងធនាគារ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "គណនេយ្យ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "ទីផ្សារ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "សណ្ឋាគារ និងទេសចរណ៍",
+                "category_km": "ទេសចរណ៍"
+              },
+              {
+                "name_km": "ភាសាអង់គ្លេសសម្រាប់ទំនាក់ទំនង",
+                "category_km": "ភាសា"
+              },
+              {
+                "name_km": "អប់រំភាសាអង់គ្លេស",
+                "category_km": "អប់រំ"
+              },
+              {
+                "name_km": "ច្បាប់",
+                "category_km": "ច្បាប់"
+              },
+              {
+                "name_km": "រដ្ឋបាលសាធារណៈ",
+                "category_km": "រដ្ឋបាល"
+              },
+              {
+                "name_km": "វិស្វកម្មសំណង់ស៊ីវិល",
+                "category_km": "វិស្វកម្ម"
+              },
+              {
+                "name_km": "ស្ថាបត្យកម្ម",
+                "category_km": "ស្ថាបត្យកម្ម"
+              }
+            ]
+          }
+        ],
+        "contact": {
+          "phones": [
+            "023 999 981"
+          ],
+          "email": "info@western.edu.kh",
+          "website": "https://www.western.edu.kh",
+          "facebook": "western.edu.kh"
+        },
+        "admission_requirements_km": [
+          "សញ្ញាបត្រមធ្យមសិក្សាទុតិយភូមិ ឬស្មើ",
+          "ពាក្យស្នើសុំ",
+          "រូបថត"
+        ],
+        "career_opportunities_km": "ឱកាសការងារក្នុងវិស័យបច្ចេកវិទ្យាព័ត៌មាន, ការរចនា, ការបកប្រែ, គណនេយ្យ, ច្បាប់, និងរដ្ឋបាលសាធារណៈ។",
+        "major_categories_km": [
+          "បច្ចេកវិទ្យា",
+          "សិល្បៈ",
+          "ធុរកិច្ច",
+          "ទេសចរណ៍",
+          "ភាសា",
+          "អប់រំ",
+          "ច្បាប់",
+          "រដ្ឋបាល",
+          "វិស្វកម្ម",
+          "ស្ថាបត្យកម្ម"
+        ],
+        "total_majors": 13,
+        "budget_category": "medium",
+        "has_entrance_exam": false,
+        "special_programs": [],
+        "ranking_score": null
+      },
+      "total_score": 69
+    },
+    {
+      "university": {
+        "id": 21,
+        "name_km": "វិទ្យាស្ថានស្រាវជ្រាវ និងអភិវឌ្ឍន៍កសិកម្មកម្ពុជា",
+        "name_en": "Cambodian Agricultural Research and Development Institute",
+        "name_short": "CARDI",
+        "location": "Phnom Penh",
+        "type": "Public",
+        "established_year": 1974,
+        "tuition_fees": {
+          "currency": "USD",
+          "range_min": 300,
+          "range_max": 500,
+          "note_km": "ប្រហែល $300–$500/ឆ្នាំ"
+        },
+        "faculties": [
+          {
+            "name_km": "កម្មវិធីសិក្សា",
+            "majors": [
+              {
+                "name_km": "វិទ្យាសាស្ត្រដំណាំ",
+                "category_km": "កសិកម្ម"
+              },
+              {
+                "name_km": "វិទ្យាសាស្ត្រសត្វ",
+                "category_km": "កសិកម្ម"
+              },
+              {
+                "name_km": "ដំណាំឧស្សាហកម្ម",
+                "category_km": "កសិកម្ម"
+              },
+              {
+                "name_km": "វារីវប្បកម្ម",
+                "category_km": "ជលផល"
+              }
+            ]
+          }
+        ],
+        "contact": {
+          "phones": [
+            "023 219 593"
+          ],
+          "email": "info@cardi.org.kh",
+          "website": "https://www.cardi.org.kh",
+          "facebook": null
+        },
+        "admission_requirements_km": [
+          "សញ្ញាបត្រមធ្យមសិក្សាទុតិយភូមិ ឬស្មើ",
+          "ពាក្យស្នើសុំ",
+          "រូបថត"
+        ],
+        "career_opportunities_km": "ឱកាសការងារជាអ្នកជំនាញកសិកម្ម, អ្នកបច្ចេកទេសកសិកម្ម, និងអ្នកស្រាវជ្រាវកសិកម្ម។",
+        "major_categories_km": [
+          "កសិកម្ម",
+          "ជលផល"
+        ],
+        "total_majors": 4,
+        "budget_category": "low",
+        "has_entrance_exam": false,
+        "special_programs": [],
+        "ranking_score": null
+      },
+      "total_score": 56
+    }
+  ],
+  "result_id": "test2",
+  "timestamp": "2023-07-15T12:00:00Z"
+}

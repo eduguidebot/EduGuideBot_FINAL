@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="km">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>វិភាគ DNA និស្សិត - EduGuideBot</title>
+    <link href="https://fonts.googleapis.com/css2?family=Battambang:wght@400;700&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+</head>
+<body>
+    <header>
+        <h1>វិភាគ DNA និស្សិត</h1>
+        <p>រកឃើញសាកលវិទ្យាល័យដែលស្របនឹងចំណូលចិត្តរបស់អ្នក</p>
+    </header>
+
+    <main>
+        <div class="quiz-container">
+            <!-- Step 1: Introduction -->
+            <div class="quiz-step" id="step-intro">
+                <div class="step-header">
+                    <div class="step-icon">🧬</div>
+                    <h2>ចាប់ផ្តើមការវិភាគ DNA និស្សិត</h2>
+                </div>
+                <div class="step-content">
+                    <p>សូមស្វាគមន៍មកកាន់ឧបករណ៍ជំនួយក្នុងការសម្រេចចិត្តរបស់យើង! ដើម្បីផ្តល់អនុសាសន៍ល្អបំផុតសម្រាប់អ្នក យើងនឹងសួរសំណួរខ្លីៗចំនួន 5 អំពីចំណូលចិត្ត និងកត្តាសំខាន់ៗរបស់អ្នក។</p>
+                    <button class="next-btn" data-next="step-1">ចាប់ផ្តើម</button>
+                </div>
+            </div>
+
+            <!-- Step 2: Location -->
+            <div class="quiz-step" id="step-1" style="display: none;">
+                <div class="step-header">
+                    <div class="step-icon">📍</div>
+                    <h2>ទីតាំងដែលចង់សិក្សា</h2>
+                </div>
+                <div class="step-content">
+                    <p>តើអ្នកចង់សិក្សានៅទីតាំងណា?</p>
+                    <div class="radio-group">
+                        <label>
+                            <input type="radio" name="location" value="Phnom Penh">
+                            <span>ភ្នំពេញ</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="location" value="Siem Reap">
+                            <span>សៀមរាប</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="location" value="Battambang">
+                            <span>បាត់ដំបង</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="location" value="Any">
+                            <span>ទីតាំងណាក៏បាន</span>
+                        </label>
+                    </div>
+                    <button class="next-btn location-next" data-next="step-2">បន្ទាប់</button>
+                </div>
+            </div>
+
+            <!-- Step 3: Budget -->
+            <div class="quiz-step" id="step-2" style="display: none;">
+                <div class="step-header">
+                    <div class="step-icon">💰</div>
+                    <h2>ថវិកាអតិបរមា</h2>
+                </div>
+                <div class="step-content">
+                    <p>តើអ្នកមានថវិកាប៉ុន្មានសម្រាប់ការសិក្សាប្រចាំឆ្នាំ?</p>
+                    <div class="range-slider">
+                        <input type="range" id="budget-range" min="300" max="3000" step="100" value="1000">
+                        <div class="range-labels">
+                            <span>$300</span>
+                            <span id="budget-display">$1000</span>
+                            <span>$3000</span>
+                        </div>
+                    </div>
+                    <button class="next-btn" data-next="step-3">បន្ទាប់</button>
+                </div>
+            </div>
+
+            <!-- Step 4: Field of Study -->
+            <div class="quiz-step" id="step-3" style="display: none;">
+                <div class="step-header">
+                    <div class="step-icon">📚</div>
+                    <h2>ផ្នែកសិក្សា</h2>
+                </div>
+                <div class="step-content">
+                    <p>តើអ្នកចាប់អារម្មណ៍លើផ្នែកសិក្សាណា?</p>
+                    <div class="select-container">
+                        <select id="field-select">
+                            <option value="">-- ជ្រើសរើសជម្រើសមួយ --</option>
+                            <option value="វិស្វកម្ម">វិស្វកម្ម</option>
+                            <option value="បច្ចេកវិទ្យា">បច្ចេកវិទ្យា</option>
+                            <option value="វេជ្ជសាស្ត្រ">វេជ្ជសាស្ត្រ</option>
+                            <option value="សុខភាព">សុខភាព</option>
+                            <option value="ច្បាប់">ច្បាប់</option>
+                            <option value="ធុរកិច្ច">ធុរកិច្ច</option>
+                            <option value="អប់រំ">អប់រំ</option>
+                            <option value="ភាសា">ភាសា</option>
+                            <option value="កសិកម្ម">កសិកម្ម</option>
+                            <option value="សេដ្ឋកិច្ច">សេដ្ឋកិច្ច</option>
+                            <option value="ទេសចរណ៍">ទេសចរណ៍</option>
+                        </select>
+                    </div>
+                    <button class="next-btn field-next" data-next="step-4">បន្ទាប់</button>
+                </div>
+            </div>
+
+            <!-- Step 5: Career Goal -->
+            <div class="quiz-step" id="step-4" style="display: none;">
+                <div class="step-header">
+                    <div class="step-icon">🚀</div>
+                    <h2>គោលដៅអាជីព</h2>
+                </div>
+                <div class="step-content">
+                    <p>តើអ្នកចង់ក្លាយជាអ្វីនៅពេលអនាគត?</p>
+                    <div class="radio-group">
+                        <label>
+                            <input type="radio" name="career" value="វិស្វករ">
+                            <span>វិស្វករ</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="career" value="អ្នកគ្រប់គ្រង">
+                            <span>អ្នកគ្រប់គ្រង</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="career" value="វេជ្ជបណ្ឌិត">
+                            <span>វេជ្ជបណ្ឌិត</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="career" value="គ្រូបង្រៀន">
+                            <span>គ្រូបង្រៀន</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="career" value="អ្នកកណមាយ">
+                            <span>អ្នកច្បាប់</span>
+                        </label>
+                    </div>
+                    <button class="next-btn career-next" data-next="step-5">បន្ទាប់</button>
+                </div>
+            </div>
+
+            <!-- Step 6: English Level -->
+            <div class="quiz-step" id="step-5" style="display: none;">
+                <div class="step-header">
+                    <div class="step-icon">🔤</div>
+                    <h2>កម្រិតភាសាអង់គ្លេស</h2>
+                </div>
+                <div class="step-content">
+                    <p>វាយតម្លៃកម្រិតភាសាអង់គ្លេសរបស់អ្នក (1-10):</p>
+                    <div class="range-slider">
+                        <input type="range" id="english-range" min="1" max="10" step="1" value="5">
+                        <div class="range-labels">
+                            <span>1</span>
+                            <span id="english-display">5</span>
+                            <span>10</span>
+                        </div>
+                    </div>
+                    <button id="submit-quiz">ប្រគល់ចម្លើយ</button>
+                </div>
+            </div>
+
+            <!-- Loading Screen -->
+            <div class="quiz-step" id="step-loading" style="display: none;">
+                <div class="loading-container">
+                    <div class="loading-spinner"></div>
+                    <p>កំពុងវិភាគចម្លើយរបស់អ្នក...</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        // %%UNIVERSITY_DATA%%
+        // This line will be replaced with actual university data during build
+    </script>
+    <script src="js/app.js"></script>
+</body>
+</html> 

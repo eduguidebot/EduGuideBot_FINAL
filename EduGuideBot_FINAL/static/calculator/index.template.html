@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="km">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>អ្នកគណនាថ្លៃសិក្សា - EduGuideBot</title>
+    <link href="https://fonts.googleapis.com/css2?family=Battambang:wght@400;700&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+</head>
+<body>
+    <header>
+        <h1>អ្នកគណនាថ្លៃសិក្សា</h1>
+        <p>គណនាតម្លៃចំណាយលើការសិក្សាប្រចាំឆ្នាំ</p>
+    </header>
+
+    <main>
+        <div class="calculator-container">
+            <div class="calculator-form">
+                <div class="form-group">
+                    <label for="university-select">ជ្រើសរើសសាកលវិទ្យាល័យ:</label>
+                    <select id="university-select">
+                        <option value="">-- ជ្រើសរើសជម្រើសមួយ --</option>
+                        <!-- University options will be inserted here -->
+                    </select>
+                </div>
+                
+                <div class="form-group">
+                    <label for="major-select">ជ្រើសរើសជំនាញ:</label>
+                    <select id="major-select" disabled>
+                        <option value="">-- ជ្រើសរើសសាកលវិទ្យាល័យមុន --</option>
+                    </select>
+                </div>
+                
+                <div class="form-group">
+                    <label for="scholarships">ការកាត់បន្ថយថ្លៃសិក្សា (%):</label>
+                    <input type="range" id="scholarships" min="0" max="100" value="0" step="5">
+                    <span id="scholarship-value">0%</span>
+                </div>
+                
+                <div class="form-group">
+                    <label for="living-expenses">ចំណាយរស់នៅប្រចាំខែ ($):</label>
+                    <input type="range" id="living-expenses" min="100" max="500" value="200" step="50">
+                    <span id="living-value">$200</span>
+                </div>
+                
+                <div class="form-group">
+                    <label for="years">ចំនួនឆ្នាំសិក្សា:</label>
+                    <select id="years">
+                        <option value="1">1 ឆ្នាំ</option>
+                        <option value="2">2 ឆ្នាំ</option>
+                        <option value="3">3 ឆ្នាំ</option>
+                        <option value="4" selected>4 ឆ្នាំ</option>
+                        <option value="5">5 ឆ្នាំ</option>
+                    </select>
+                </div>
+                
+                <button id="calculate-btn">គណនា</button>
+            </div>
+            
+            <div class="results-container" id="results-container">
+                <h2>លទ្ធផល</h2>
+                <div class="results-table">
+                    <div class="result-row">
+                        <div class="result-label">ថ្លៃសិក្សាប្រចាំឆ្នាំ:</div>
+                        <div class="result-value" id="yearly-tuition">$0</div>
+                    </div>
+                    <div class="result-row">
+                        <div class="result-label">ចំណាយរស់នៅប្រចាំឆ្នាំ:</div>
+                        <div class="result-value" id="yearly-living">$0</div>
+                    </div>
+                    <div class="result-row">
+                        <div class="result-label">ចំណាយសរុបប្រចាំឆ្នាំ:</div>
+                        <div class="result-value" id="yearly-total">$0</div>
+                    </div>
+                    <div class="result-row result-highlight">
+                        <div class="result-label">ចំណាយសរុបសម្រាប់កម្មវិធីសិក្សា:</div>
+                        <div class="result-value" id="total-cost">$0</div>
+                    </div>
+                </div>
+                
+                <div class="notes">
+                    <p><strong>ចំណាំ:</strong> ការគណនានេះគឺជាការប៉ាន់ស្មានប៉ុណ្ណោះ។ ចំណាយជាក់ស្តែងអាចប្រែប្រួល។</p>
+                </div>
+                
+                <button id="share-results">ចែករំលែកលទ្ធផល</button>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        // %%UNIVERSITY_DATA%%
+        // This line will be replaced with actual university data during build
+    </script>
+    <script src="js/app.js"></script>
+</body>
+</html> 

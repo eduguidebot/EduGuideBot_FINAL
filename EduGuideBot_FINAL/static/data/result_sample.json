@@ -1,0 +1,467 @@
+{
+  "user_profile": {
+    "location": "Phnom Penh",
+    "max_budget": 1200,
+    "core_field": "បច្ចេកវិទ្យា",
+    "career_goal": "វិស្វករ",
+    "english_proficiency": 8
+  },
+  "recommendations": [
+    {
+      "university": {
+        "id": 39,
+        "name_km": "សាកលវិទ្យាល័យលឹមកុកវីង",
+        "name_en": "Limkokwing University of Creative Technology",
+        "name_short": "LKU",
+        "location": "Phnom Penh",
+        "type": "Private",
+        "established_year": 2010,
+        "tuition_fees": {
+          "currency": "USD",
+          "range_min": 1000,
+          "range_max": 1200,
+          "note_km": "$1,000–$1,200/ឆ្នាំ (ប្រភេទអន្តរជាតិ)"
+        },
+        "faculties": [
+          {
+            "name_km": "កម្មវិធីសិក្សា",
+            "majors": [
+              {
+                "name_km": "ស្ថាបត្យកម្ម និងការរចនា",
+                "category_km": "ស្ថាបត្យកម្ម"
+              },
+              {
+                "name_km": "សិល្បៈ, អក្សរសាស្ត្រ និងមនុស្សសាស្ត្រ",
+                "category_km": "សិល្បៈ"
+              },
+              {
+                "name_km": "ច្បាប់ និងវិទ្យាសាស្ត្រសង្គម",
+                "category_km": "ច្បាប់"
+              },
+              {
+                "name_km": "វិទ្យាសាស្ត្រសង្គម និងទំនាក់ទំនងអន្តរជាតិ",
+                "category_km": "ទំនាក់ទំនងអន្តរជាតិ"
+              },
+              {
+                "name_km": "គ្រប់គ្រងរដ្ឋបាលធុរកិច្ច",
+                "category_km": "ធុរកិច្ច"
+              }
+            ]
+          }
+        ],
+        "contact": {
+          "phones": [
+            "023 987 877"
+          ],
+          "email": "info@limkokwing.edu.kh",
+          "website": "https://www.limkokwing.net/cambodia",
+          "facebook": null
+        },
+        "admission_requirements_km": [
+          "សញ្ញាបត្រមធ្យមសិក្សាទុតិយភូមិ ឬស្មើ",
+          "ពាក្យស្នើសុំ",
+          "រូបថត"
+        ],
+        "career_opportunities_km": "ឱកាសការងារជាអ្នករចនា, នាយកច្នៃប្រឌិត, អ្នកគ្រប់គ្រងធុរកិច្ច, អ្នកបកប្រែ, និងអ្នកទំនាក់ទំនងអន្តរជាតិ។",
+        "major_categories_km": [
+          "ស្ថាបត្យកម្ម",
+          "សិល្បៈ",
+          "ច្បាប់",
+          "ទំនាក់ទំនងអន្តរជាតិ",
+          "ធុរកិច្ច"
+        ],
+        "total_majors": 5,
+        "budget_category": "high",
+        "has_entrance_exam": false,
+        "special_programs": [],
+        "ranking_score": null
+      },
+      "total_score": 93
+    },
+    {
+      "university": {
+        "id": 37,
+        "name_km": "សាកលវិទ្យាល័យធនធានមនុស្ស",
+        "name_en": "Human Resources University",
+        "name_short": "HRU",
+        "location": "Phnom Penh",
+        "type": "Private",
+        "established_year": 2003,
+        "tuition_fees": {
+          "currency": "USD",
+          "range_min": 350,
+          "range_max": 500,
+          "note_km": "$350–$500/ឆ្នាំ"
+        },
+        "faculties": [
+          {
+            "name_km": "កម្មវិធីសិក្សា",
+            "majors": [
+              {
+                "name_km": "គ្រប់គ្រង",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "ទីផ្សារ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "ធុរកិច្ចឌីជីថល",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "សណ្ឋាគារ និងទេសចរណ៍",
+                "category_km": "ទេសចរណ៍"
+              },
+              {
+                "name_km": "ហិរញ្ញវត្ថុ និងធនាគារ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "អភិវឌ្ឍន៍សេដ្ឋកិច្ច",
+                "category_km": "សេដ្ឋកិច្ច"
+              },
+              {
+                "name_km": "ទីផ្សារមូលធន",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "អប់រំភាសាអង់គ្លេស",
+                "category_km": "អប់រំ"
+              },
+              {
+                "name_km": "ទំនាក់ទំនងអន្តរជាតិ",
+                "category_km": "ទំនាក់ទំនងអន្តរជាតិ"
+              },
+              {
+                "name_km": "ភាសាអង់គ្លេសសម្រាប់អាជីវកម្ម",
+                "category_km": "ភាសា"
+              },
+              {
+                "name_km": "វិទ្យាសាស្ត្រកុំព្យូទ័រ",
+                "category_km": "បច្ចេកវិទ្យា"
+              },
+              {
+                "name_km": "ការសរសេរកម្មវិធី",
+                "category_km": "បច្ចេកវិទ្យា"
+              },
+              {
+                "name_km": "វិស្វកម្មកុំព្យូទ័រ",
+                "category_km": "វិស្វកម្ម"
+              },
+              {
+                "name_km": "ច្បាប់",
+                "category_km": "ច្បាប់"
+              },
+              {
+                "name_km": "រដ្ឋបាលសាធារណៈ",
+                "category_km": "រដ្ឋបាល"
+              }
+            ]
+          }
+        ],
+        "contact": {
+          "phones": [
+            "023 884 142"
+          ],
+          "email": "info@hru.edu.kh",
+          "website": "https://www.hru.edu.kh",
+          "facebook": "hru.edu.kh"
+        },
+        "admission_requirements_km": [
+          "សញ្ញាបត្រមធ្យមសិក្សាទុតិយភូមិ ឬស្មើ",
+          "ពាក្យស្នើសុំ",
+          "រូបថត"
+        ],
+        "career_opportunities_km": "ឱកាសការងារក្នុងវិស័យអាជីវកម្ម, បច្ចេកវិទ្យាព័ត៌មាន, ធនាគារ, ទីផ្សារ, ការបង្រៀន, និងសេវាសាធារណៈ។",
+        "major_categories_km": [
+          "ធុរកិច្ច",
+          "ទេសចរណ៍",
+          "សេដ្ឋកិច្ច",
+          "អប់រំ",
+          "ទំនាក់ទំនងអន្តរជាតិ",
+          "ភាសា",
+          "បច្ចេកវិទ្យា",
+          "វិស្វកម្ម",
+          "ច្បាប់",
+          "រដ្ឋបាល"
+        ],
+        "total_majors": 15,
+        "budget_category": "low",
+        "has_entrance_exam": false,
+        "special_programs": [],
+        "ranking_score": null
+      },
+      "total_score": 74
+    },
+    {
+      "university": {
+        "id": 27,
+        "name_km": "បណ្ឌិត្យសភាបច្ចេកវិទ្យាឌីជីថលកម្ពុជា",
+        "name_en": "Cambodia Academy of Digital Technology",
+        "name_short": "CADT",
+        "location": "Phnom Penh",
+        "type": "Public",
+        "established_year": 2017,
+        "tuition_fees": {
+          "currency": "USD",
+          "range_min": 600,
+          "range_max": 1200,
+          "note_km": "ជាមធ្យម: $600 - $1,200 ក្នុងមួយឆ្នាំ (អាស្រ័យលើជំនាញ และប្រភេទកម្មវិធី)"
+        },
+        "faculties": [
+          {
+            "name_km": "កម្មវិធីសិក្សា",
+            "majors": [
+              {
+                "name_km": "ទូរគមនាគមន៍ និងបណ្ដាញ",
+                "category_km": "បច្ចេកវិទ្យា"
+              },
+              {
+                "name_km": "វិទ្យាសាស្ត្រកុំព្យូទ័រ",
+                "category_km": "បច្ចេកវិទ្យា"
+              },
+              {
+                "name_km": "ធុរកិច្ចឌីជីថល",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "សន្តិសុខសាយប័រ",
+                "category_km": "បច្ចេកវិទ្យា"
+              },
+              {
+                "name_km": "វិស្វកម្មសូហ្វវែរ",
+                "category_km": "បច្ចេកវិទ្យា"
+              },
+              {
+                "name_km": "វិទ្យាសាស្ត្រទិន្នន័យ",
+                "category_km": "បច្ចេកវិទ្យា"
+              }
+            ]
+          }
+        ],
+        "contact": {
+          "phones": [
+            "023 900 191"
+          ],
+          "email": "info@cadt.edu.kh",
+          "website": "https://www.cadt.edu.kh/",
+          "facebook": "CADT.Cambodia"
+        },
+        "admission_requirements_km": [
+          "សិស្សជាប់សញ្ញាបត្រមធ្យមសិក្សាទុតិយភូមិ (គ្រប់និទ្ទេស)",
+          "ឆ្លងកាត់ការធ្វើតេស្តសមត្ថភាពលើគណិតវិទ្យា និងភាសាអង់គ្លេស"
+        ],
+        "career_opportunities_km": "ឱកាសការងារជាអ្នកអភិវឌ្ឍន៍កម្មវិធី, វិស្វករបណ្ដាញ, អ្នកជំនាញសន្តិសុខសាយប័រ, អ្នកគ្រប់គ្រងប្រព័ន្ធ, អ្នកជំនាញពាណិជ្ជកម្មអេឡិចត្រូនិក, អ្នកវិទ្យាសាស្ត្រទិន្នន័យ, និងអ្នកទីផ្សារឌីជីថល។",
+        "major_categories_km": [
+          "បច្ចេកវិទ្យា",
+          "ធុរកិច្ច"
+        ],
+        "total_majors": 6,
+        "budget_category": "high",
+        "has_entrance_exam": true,
+        "special_programs": [],
+        "ranking_score": null
+      },
+      "total_score": 60
+    },
+    {
+      "university": {
+        "id": 40,
+        "name_km": "សាកលវិទ្យាល័យបញ្ញាជាតិ",
+        "name_en": "Panha Chiet University",
+        "name_short": "PCU",
+        "location": "Phnom Penh",
+        "type": "Private",
+        "established_year": 2006,
+        "tuition_fees": {
+          "currency": "USD",
+          "range_min": 250,
+          "range_max": 400,
+          "note_km": "$250–$400/ឆ្នាំ"
+        },
+        "faculties": [
+          {
+            "name_km": "កម្មវិធីសិក្សា",
+            "majors": [
+              {
+                "name_km": "គណនេយ្យ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "ទីផ្សារ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "គ្រប់គ្រង",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "សេដ្ឋកិច្ច",
+                "category_km": "សេដ្ឋកិច្ច"
+              },
+              {
+                "name_km": "ទេសចរណ៍",
+                "category_km": "ទេសចរណ៍"
+              }
+            ]
+          }
+        ],
+        "contact": {
+          "phones": [
+            "023 997 766"
+          ],
+          "email": "info@pcu.edu.kh",
+          "website": "https://www.pcu.edu.kh",
+          "facebook": "pcu.edu.kh"
+        },
+        "admission_requirements_km": [
+          "សញ្ញាបត្រមធ្យមសិក្សាទុតិយភូមិ ឬស្មើ",
+          "ពាក្យស្នើសុំ",
+          "រូបថត"
+        ],
+        "career_opportunities_km": "ឱកាសការងារក្នុងវិស័យធុរកិច្ច, គណនេយ្យ, ទីផ្សារ, សេដ្ឋកិច្ច, និងទេសចរណ៍។",
+        "major_categories_km": [
+          "ធុរកិច្ច",
+          "សេដ្ឋកិច្ច",
+          "ទេសចរណ៍"
+        ],
+        "total_majors": 5,
+        "budget_category": "low",
+        "has_entrance_exam": false,
+        "special_programs": [],
+        "ranking_score": null
+      },
+      "total_score": 55
+    },
+    {
+      "university": {
+        "id": 34,
+        "name_km": "សាកលវិទ្យាល័យអាស៊ីអឺរ៉ុប",
+        "name_en": "Asia Europe University",
+        "name_short": "AEU",
+        "location": "Phnom Penh",
+        "type": "Private",
+        "established_year": 2005,
+        "tuition_fees": {
+          "currency": "USD",
+          "range_min": 300,
+          "range_max": 500,
+          "note_km": "$300–$500/ឆ្នាំ"
+        },
+        "faculties": [
+          {
+            "name_km": "កម្មវិធីសិក្សា",
+            "majors": [
+              {
+                "name_km": "ភាសាអង់គ្លេស",
+                "category_km": "ភាសា"
+              },
+              {
+                "name_km": "ភាសាចិន",
+                "category_km": "ភាសា"
+              },
+              {
+                "name_km": "ទំនាក់ទំនងអន្តរជាតិ",
+                "category_km": "ទំនាក់ទំនងអន្តរជាតិ"
+              },
+              {
+                "name_km": "វិទ្យាសាស្ត្រកុំព្យូទ័រ",
+                "category_km": "បច្ចេកវិទ្យា"
+              },
+              {
+                "name_km": "បណ្តាញ និងប្រព័ន្ធព័ត៌មាន",
+                "category_km": "បច្ចេកវិទ្យា"
+              },
+              {
+                "name_km": "ស្ថាបត្យកម្ម",
+                "category_km": "ស្ថាបត្យកម្ម"
+              },
+              {
+                "name_km": "វិស្វកម្មអគ្គិសនី",
+                "category_km": "វិស្វកម្ម"
+              },
+              {
+                "name_km": "សេដ្ឋកិច្ច",
+                "category_km": "សេដ្ឋកិច្ច"
+              },
+              {
+                "name_km": "ធនាគារ និងហិរញ្ញវត្ថុ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "គណនេយ្យ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "អភិវឌ្ឍន៍សហគមន៍",
+                "category_km": "សេដ្ឋកិច្ច"
+              },
+              {
+                "name_km": "ពាណិជ្ជកម្មអន្តរជាតិ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "ច្បាប់",
+                "category_km": "ច្បាប់"
+              },
+              {
+                "name_km": "វិទ្យាសាស្ត្រនយោបាយ",
+                "category_km": "ទំនាក់ទំនងអន្តរជាតិ"
+              },
+              {
+                "name_km": "គ្រប់គ្រង",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "ទីផ្សារ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "ធនធានមនុស្ស",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "សណ្ឋាគារ និងទេសចរណ៍",
+                "category_km": "ទេសចរណ៍"
+              }
+            ]
+          }
+        ],
+        "contact": {
+          "phones": [
+            "023 220 160"
+          ],
+          "email": "info@aeu.edu.kh",
+          "website": "https://www.aeu.edu.kh",
+          "facebook": "aeu.edu.kh"
+        },
+        "admission_requirements_km": [
+          "សញ្ញាបត្រមធ្យមសិក្សាទុតិយភូមិ ឬស្មើ",
+          "ពាក្យស្នើសុំ",
+          "រូបថត"
+        ],
+        "career_opportunities_km": "ឱកាសការងារក្នុងវិស័យភាសាបរទេស, បច្ចេកវិទ្យាព័ត៌មាន, ការគ្រប់គ្រង, ច្បាប់, គណនេយ្យ, ហិរញ្ញវត្ថុ, ស្ថាបត្យកម្ម, និងវិស្វកម្ម។",
+        "major_categories_km": [
+          "ភាសា",
+          "ទំនាក់ទំនងអន្តរជាតិ",
+          "បច្ចេកវិទ្យា",
+          "ស្ថាបត្យកម្ម",
+          "វិស្វកម្ម",
+          "សេដ្ឋកិច្ច",
+          "ធុរកិច្ច",
+          "ច្បាប់",
+          "ទេសចរណ៍"
+        ],
+        "total_majors": 18,
+        "budget_category": "low",
+        "has_entrance_exam": false,
+        "special_programs": [],
+        "ranking_score": null
+      },
+      "total_score": 53
+    }
+  ],
+  "result_id": "sample",
+  "timestamp": "2023-07-15T12:00:00Z"
+}

@@ -1,0 +1,53 @@
+/* EduGuideBot - Main CSS Styles */
+
+:root {
+  --primary-color: #3498db;
+  --secondary-color: #2ecc71;
+  --accent-color: #f1c40f;
+  --dark-color: #2c3e50;
+  --light-color: #ecf0f1;
+  --text-color: #333;
+  --font-main: "Roboto", Arial, sans-serif;
+  --font-khmer: "Noto Sans Khmer", "Khmer OS", serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-main);
+  color: var(--text-color);
+  line-height: 1.6;
+  background-color: #f9f9f9;
+}
+
+.khmer {
+  font-family: var(--font-khmer);
+}
+
+/* Header */
+header {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 1rem 0;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+/* Main Content */
+main {
+  padding: 2rem 0;
+}
+
+section {
+  margin-bottom: 2rem;
+}

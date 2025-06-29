@@ -1,0 +1,164 @@
+:root {
+    --primary-color: #25D366;
+    --secondary-color: #128C7E;
+    --dark-color: #075E54;
+    --light-color: #DCF8C6;
+    --gray-color: #f0f0f0;
+    --text-color: #222;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Battambang', 'Roboto', sans-serif;
+    color: var(--text-color);
+    background-color: #fff;
+    line-height: 1.5;
+    padding-bottom: 2rem;
+}
+
+header {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 1.5rem 1rem;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+h1 {
+    margin-bottom: 1rem;
+    font-size: 1.8rem;
+}
+
+.search-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+input, select {
+    padding: 0.5rem;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    font-family: 'Battambang', 'Roboto', sans-serif;
+}
+
+#search-input {
+    flex: 1;
+    min-width: 200px;
+}
+
+main {
+    padding: 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.university-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1rem;
+}
+
+.university-card {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.2s;
+    cursor: pointer;
+}
+
+.university-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.card-header {
+    background-color: var(--secondary-color);
+    color: white;
+    padding: 1rem;
+}
+
+.card-header h2 {
+    margin: 0;
+    font-size: 1.3rem;
+}
+
+.card-location {
+    font-size: 0.9rem;
+    opacity: 0.9;
+}
+
+.card-body {
+    padding: 1rem;
+}
+
+.card-info {
+    margin-bottom: 0.5rem;
+}
+
+.card-info p {
+    margin-bottom: 0.3rem;
+}
+
+.university-details {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 100;
+}
+
+.details-content {
+    background-color: white;
+    border-radius: 8px;
+    width: 90%;
+    max-width: 700px;
+    max-height: 90vh;
+    overflow-y: auto;
+    padding: 1.5rem;
+    position: relative;
+}
+
+.details-header {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0.5rem;
+}
+
+#close-details {
+    background: none;
+    border: none;
+    font-size: 2rem;
+    cursor: pointer;
+    color: white;
+}
+
+.loading {
+    text-align: center;
+    grid-column: 1 / -1;
+    padding: 2rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+    .university-grid {
+        grid-template-columns: 1fr;
+    }
+} 

@@ -1,0 +1,248 @@
+{
+  "user_profile": {
+    "location": "Battambang",
+    "max_budget": 926,
+    "core_field": "សុខភាព",
+    "career_goal": "អ្នកកฎหមាយ",
+    "english_proficiency": 6
+  },
+  "recommendations": [
+    {
+      "university": {
+        "id": 8,
+        "name_km": "សាកលវិទ្យាល័យគ្រប់គ្រង និងសេដ្ឋកិច្ច",
+        "name_en": "University of Management and Economics",
+        "name_short": "UME",
+        "location": "Battambang",
+        "type": "Private",
+        "established_year": 2006,
+        "tuition_fees": {
+          "currency": "USD",
+          "range_min": 350,
+          "range_max": 700,
+          "note_km": "ប្រហែល $350–$700/ឆ្នាំ (អាស្រ័យលើមុខជំនាញ)"
+        },
+        "faculties": [
+          {
+            "name_km": "កម្មវិធីសិក្សា",
+            "majors": [
+              {
+                "name_km": "គណនេយ្យ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "ហិរញ្ញវត្ថុ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "គ្រប់គ្រង",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "ទីផ្សារ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "ទេសចរណ៍",
+                "category_km": "ទេសចរណ៍"
+              },
+              {
+                "name_km": "ពាណិជ្ជកម្មអន្តរជាតិ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "ច្បាប់",
+                "category_km": "ច្បាប់"
+              },
+              {
+                "name_km": "បច្ចេកវិទ្យាព័ត៌មាន",
+                "category_km": "បច្ចេកវិទ្យា"
+              },
+              {
+                "name_km": "អក្សរសាស្ត្រអង់គ្លេស",
+                "category_km": "ភាសា"
+              },
+              {
+                "name_km": "សេដ្ឋកិច្ច",
+                "category_km": "សេដ្ឋកិច្ច"
+              },
+              {
+                "name_km": "សេដ្ឋកិច្ចអន្តរជាតិ",
+                "category_km": "សេដ្ឋកិច្ច"
+              },
+              {
+                "name_km": "គ្រប់គ្រងធនធានមនុស្ស",
+                "category_km": "ធុរកិច្ច"
+              }
+            ]
+          }
+        ],
+        "contact": {
+          "phones": [
+            "053 952 430",
+            "017 658 028"
+          ],
+          "email": "info@ume.edu.kh",
+          "website": "https://www.ume.edu.kh",
+          "facebook": "UMECambodia"
+        },
+        "admission_requirements_km": [
+          "សញ្ញាបត្រមធ្យមសិក្សាទុតិយភូមិ ឬសញ្ញាបត្រស្មើ",
+          "ពាក្យស្នើសុំចុះឈ្មោះ",
+          "រូបថត 4x6 ចំនួន ២សន្លឹក"
+        ],
+        "career_opportunities_km": "ឱកាសការងារក្នុងផ្នែកគណនេយ្យ, ហិរញ្ញវត្ថុ, គ្រប់គ្រង, ទីផ្សារ, ភាសាអង់គ្លេស, សេដ្ឋកិច្ច, ពាណិជ្ជកម្ម និងទេសចរណ៍។",
+        "major_categories_km": [
+          "ធុរកិច្ច",
+          "ទេសចរណ៍",
+          "ច្បាប់",
+          "បច្ចេកវិទ្យា",
+          "ភាសា",
+          "សេដ្ឋកិច្ច"
+        ],
+        "total_majors": 12,
+        "budget_category": "medium",
+        "has_entrance_exam": false,
+        "special_programs": [],
+        "ranking_score": null
+      },
+      "total_score": 74
+    },
+    {
+      "university": {
+        "id": 7,
+        "name_km": "សាកលវិទ្យាល័យជាតិបាត់ដំបង",
+        "name_en": "National University of Battambang",
+        "name_short": "NUBB",
+        "location": "Battambang",
+        "type": "Public",
+        "established_year": 2007,
+        "tuition_fees": {
+          "currency": "USD",
+          "range_min": 250,
+          "range_max": 600,
+          "note_km": "ប្រហែល $250–$600/ឆ្នាំ (អាស្រ័យលើមុខជំនាញ และកម្មវិធីសិក្សា)"
+        },
+        "faculties": [
+          {
+            "name_km": "មហាវិទ្យាល័យកសិកម្ម និងកែច្នៃអាហារ",
+            "majors": [
+              {
+                "name_km": "វិទ្យាសាស្ត្រដំណាំ",
+                "category_km": "កសិកម្ម"
+              },
+              {
+                "name_km": "វិទ្យាសាស្ត្រសត្វ",
+                "category_km": "កសិកម្ម"
+              },
+              {
+                "name_km": "បសុព្យាបាល",
+                "category_km": "វេជ្ជសាស្ត្រ"
+              },
+              {
+                "name_km": "វិស្វកម្មប្រព័ន្ធកសិកម្ម",
+                "category_km": "វិស្វកម្ម"
+              },
+              {
+                "name_km": "សេដ្ឋកិច្ចកសិកម្ម និងអភិវឌ្ឍន៍ជនបទ",
+                "category_km": "កសិកម្ម"
+              }
+            ]
+          },
+          {
+            "name_km": "មហាវិទ្យាល័យវិទ្យាសាស្ត្រសង្គម និងអភិវឌ្ឍន៍សហគមន៍",
+            "majors": [
+              {
+                "name_km": "អភិវឌ្ឍន៍សហគមន៍",
+                "category_km": "សេដ្ឋកិច្ច"
+              },
+              {
+                "name_km": "អក្សរសាស្ត្រខ្មែរ",
+                "category_km": "ភាសា"
+              },
+              {
+                "name_km": "ភាសាអង់គ្លេស",
+                "category_km": "ភាសា"
+              }
+            ]
+          },
+          {
+            "name_km": "មហាវិទ្យាល័យគ្រប់គ្រងធុរកិច្ច និងទេសចរណ៍",
+            "majors": [
+              {
+                "name_km": "គណនេយ្យ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "ហិរញ្ញវត្ថុ និងធនាគារ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "គ្រប់គ្រង",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "ទីផ្សារ",
+                "category_km": "ធុរកិច្ច"
+              },
+              {
+                "name_km": "គ្រប់គ្រងទេសចរណ៍ និងបដិសណ្ឋារកិច្ច",
+                "category_km": "ទេសចរណ៍"
+              }
+            ]
+          },
+          {
+            "name_km": "មហាវិទ្យាល័យវិទ្យាសាស្ត្រ និងបច្ចេកវិទ្យា",
+            "majors": [
+              {
+                "name_km": "បច្ចេកវិទ្យាព័ត៌មាន",
+                "category_km": "បច្ចេកវិទ្យា"
+              },
+              {
+                "name_km": "វិស្វកម្មអគ្គិសនី និងអេឡិចត្រូនិក",
+                "category_km": "វិស្វកម្ម"
+              },
+              {
+                "name_km": "វិស្វកម្មសំណង់ស៊ីវិល",
+                "category_km": "វិស្វកម្ម"
+              }
+            ]
+          }
+        ],
+        "contact": {
+          "phones": [
+            "053 953 038",
+            "012 520 171"
+          ],
+          "email": "info@nubb.edu.kh",
+          "website": "https://www.nubb.edu.kh",
+          "facebook": "NUBB.edu.kh"
+        },
+        "admission_requirements_km": [
+          "សញ្ញាបត្រមធ្យមសិក្សាទុតិយភូមិ ឬសញ្ញាបត្រស្មើ",
+          "ពាក្យស្នើសុំចុះឈ្មោះ",
+          "រូបថត 4x6 ចំនួន ២សន្លឹក"
+        ],
+        "career_opportunities_km": "ឱកាសការងារក្នុងវិស័យកសិកម្ម, សេដ្ឋកិច្ច, អប់រំ, វិស្វកម្ម, ភាសាអង់គ្លេស, ការបកប្រែ និងវិស័យពាក់ព័ន្ធផ្សេងៗ។",
+        "major_categories_km": [
+          "កសិកម្ម",
+          "វេជ្ជសាស្ត្រ",
+          "វិស្វកម្ម",
+          "សេដ្ឋកិច្ច",
+          "ភាសា",
+          "ធុរកិច្ច",
+          "ទេសចរណ៍",
+          "បច្ចេកវិទ្យា"
+        ],
+        "total_majors": 16,
+        "budget_category": "medium",
+        "has_entrance_exam": false,
+        "special_programs": [],
+        "ranking_score": null
+      },
+      "total_score": 50
+    }
+  ],
+  "result_id": "test3",
+  "timestamp": "2023-07-15T12:00:00Z"
+}
